@@ -1,5 +1,5 @@
-/**
-* To jest program do rozpoznawania trójkąta.
+/*
+To jest program do rozpoznawania trójkąta.
 */
 
 class Trojkaty {
@@ -15,7 +15,7 @@ class Trojkaty {
          }
          // TODO: tutaj trzeba bedzie dopisac inne przypadki
     }
-    /** Wyświetla ekran pomocy */
+    /* Wyświetla ekran pomocy */
     public static void pomoc(){
         System.out.println("Acme INC. (C) 2022");
         System.out.println("Program do rozpoznawania rodzaju trójkąta");
